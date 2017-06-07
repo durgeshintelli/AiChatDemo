@@ -22,7 +22,7 @@ namespace AiChatService
 
         [OperationContract]
         [WebInvoke(Method = "POST", ResponseFormat = WebMessageFormat.Json, RequestFormat = WebMessageFormat.Json, BodyStyle = WebMessageBodyStyle.WrappedRequest, UriTemplate = "GetTestResponse")]
-        AIResponse GetTestResponse();
+        AIResponse GetTestResponse(AIResponse ai);
     }
 
     // Use a data contract as illustrated in the sample below to add composite types to service operations.
