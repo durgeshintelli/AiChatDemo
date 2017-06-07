@@ -22,7 +22,7 @@ namespace AiChatService
 
         public List<ValidateUser> ValidateUser(string sUserName, string sPassword)
         {
-            GetTestResponse();
+            
             var config = new AIConfiguration(ACCESS_TOKEN, SupportedLanguage.English);
 
             var apiAi = new ApiAi(config);
@@ -34,7 +34,7 @@ namespace AiChatService
 
         # region AI function
 
-        public AIResponse GetTestResponse()
+        public AIResponse GetTestResponse(AIResponse ai)
         {
             var testObject = new
             {
