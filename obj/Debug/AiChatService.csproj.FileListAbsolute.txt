@@ -1,0 +1,8 @@
+E:\IntelliProduct6.0\IntelliEpc6.0\AiChatService\bin\AiChatService.dll
+E:\IntelliProduct6.0\IntelliEpc6.0\AiChatService\bin\AiChatService.pdb
+E:\IntelliProduct6.0\IntelliEpc6.0\AiChatService\bin\ApiAiSDK.dll
+E:\IntelliProduct6.0\IntelliEpc6.0\AiChatService\bin\Newtonsoft.Json.dll
+E:\IntelliProduct6.0\IntelliEpc6.0\AiChatService\bin\Newtonsoft.Json.xml
+E:\IntelliProduct6.0\IntelliEpc6.0\AiChatService\obj\Debug\AiChatService.csprojResolveAssemblyReference.cache
+E:\IntelliProduct6.0\IntelliEpc6.0\AiChatService\obj\Debug\AiChatService.dll
+E:\IntelliProduct6.0\IntelliEpc6.0\AiChatService\obj\Debug\AiChatService.pdb
